@@ -1,0 +1,14 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.mat-button.mat-success,
+.mat-stroked-button.mat-success {
+  color: #f0fff3;
+  background-color: hsl(134, 93%, 35%);
+}
+.mat-card {
+  background: rgb(208, 240, 252);
+  color: rgba(0, 0, 0, 0.87);
+  margin: 10px;
+}

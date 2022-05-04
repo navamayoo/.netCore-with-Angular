@@ -1,0 +1,9 @@
+mat-form-field{
+    width: 100%;
+}
+.mat-button.mat-success,
+.mat-stroked-button.mat-success {
+  color: #f0fff3;
+  background-color: hsl(134, 93%, 35%);
+}
+
